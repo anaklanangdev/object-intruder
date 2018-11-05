@@ -6,7 +6,7 @@
   "repositories": [
     {
        "type": "library",
-       "url": "https://github.com/anaklanangdev/object-intruder",
+       "url": "https://github.com/anaklanangdev/object-intruder"
     }
   ],
     "require": {
