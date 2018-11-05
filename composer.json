@@ -10,7 +10,7 @@
         "email": "anaklanangnet@gmail.com",
         "homepage": "https://github.com/anaklanangdev",
         "role": "Developer"
-    }],
+    }]
     "require": {
     "anaklanangdev/object-intruder":"dev-master@dev"
   },
