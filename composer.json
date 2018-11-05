@@ -1,16 +1,5 @@
 {
-    "name": "anaklanangdev/object-intruder",
-    "type": "library",
-    "description": "A small library to access private/protected properties/methods of objects",
-    "keywords": ["reflection", "private", "protected", "public"],
-    "homepage": "https://github.com/anaklanangdev/object-intruder",
-    "license": "Apache-2.0",
-    "authors": [{
-        "name": "Mas Ranto",
-        "email": "anaklanangnet@gmail.com",
-        "homepage": "https://github.com/anaklanangdev",
-        "role": "Developer"
-    }],
+   
     "require": {
     "anaklanangdev/object-intruder":"dev-master@dev"
   },
