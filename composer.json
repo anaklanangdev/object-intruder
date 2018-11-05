@@ -19,7 +19,7 @@
        "type": "library",
        "url": "https://github.com/anaklanangdev/object-intruder",
     }
-  ]
+  ],
     "require": {
         "php": "^5.6|^7.0"
     },
